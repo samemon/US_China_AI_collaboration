@@ -1,0 +1,5 @@
+# Ignore any folder named data at the root level
+data/
+
+# Ignore any folder named data at any level in the directory hierarchy
+**/data/
