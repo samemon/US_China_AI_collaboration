@@ -4,6 +4,10 @@
 
 This repository contains data and code created for the study on "China and the U.S. produce more impactful AI research when collaborating together."
 
+## Code and Data
+
+We have provided the code for each of the figures in the paper. The data could not be uploaded to github as many of our files did not fit the 50 mb limit by Github. As such, if you need access to the data files, please email Shahan (samemon@uw.edu).
+
 ## Preprint
 For more details on the project and the results obtained, please refer to our preprints
 
